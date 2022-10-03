@@ -107,7 +107,6 @@ internal class ExampleView2IUI: UIView {
             contentFormViewStack.topAnchor.constraint(equalTo: textfield2.bottomAnchor, constant: 50),
             contentFormViewStack.leadingAnchor.constraint(equalTo: self.leadingAnchor, constant: 50),
             contentFormViewStack.trailingAnchor.constraint(equalTo: self.trailingAnchor, constant: -50)
-            
         ])
     }
 }
